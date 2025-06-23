@@ -1,0 +1,12 @@
+{
+    "name": "stok_takip/stok_sistemi",
+    "description": "Stok Takip Sistemi",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
